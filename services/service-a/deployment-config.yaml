@@ -1,0 +1,4 @@
+override:
+    deployment:
+        replicas: 5
+
